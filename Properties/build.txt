@@ -1,0 +1,3 @@
+displayName = The Adventurion Mod
+author = pyrossal
+version = 0.1
